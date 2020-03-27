@@ -311,4 +311,4 @@ https://lifebit-sars-cov-2.s3-eu-west-1.amazonaws.com/reads/PRJNA612766/SRR11313
 https://lifebit-sars-cov-2.s3-eu-west-1.amazonaws.com/reads/PRJNA612766/SRR11313509.fastq.gz
 https://lifebit-sars-cov-2.s3-eu-west-1.amazonaws.com/reads/SRR_Acc_List.txt
 https://lifebit-sars-cov-2.s3-eu-west-1.amazonaws.com/reads/SraRunTable.txt
-references/GCF_009858895.2_ASM985889v3_genomic.gff.gz
+https://lifebit-sars-cov-2.s3-eu-west-1.amazonaws.com/references/GCF_009858895.2_ASM985889v3_genomic.gff.gz

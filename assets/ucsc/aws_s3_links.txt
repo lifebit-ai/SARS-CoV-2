@@ -311,4 +311,4 @@ s3://lifebit-sars-cov-2/reads/PRJNA612766/SRR11313508.fastq.gz
 s3://lifebit-sars-cov-2/reads/PRJNA612766/SRR11313509.fastq.gz
 s3://lifebit-sars-cov-2/reads/SRR_Acc_List.txt
 s3://lifebit-sars-cov-2/reads/SraRunTable.txt
-references/GCF_009858895.2_ASM985889v3_genomic.gff.gz
+s3://lifebit-sars-cov-2/references/GCF_009858895.2_ASM985889v3_genomic.gff.gz
